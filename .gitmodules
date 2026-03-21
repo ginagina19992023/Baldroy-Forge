@@ -1,0 +1,3 @@
+[submodule "2026-03-21-karpathy_llm.c/source"]
+	path = 2026-03-21-karpathy_llm.c/source
+	url = https://github.com/karpathy/llm.c
